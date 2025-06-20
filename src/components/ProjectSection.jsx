@@ -25,7 +25,7 @@ const projects = [
     title: "Brain-Tumor-Detection",
     description:
       "A web application that detects brain tumors using machine learning models.",
-    image: "../../src/assets/Braintumor.png",
+    image: "https://github.com/shahdhruvp16/Dhruv-Portfolio-AI-ML/blob/main/src/assets/Braintumor.pngg",
     tags: ["ML", "AI", "Flask", "Python"],
     demoUrl: "#",
     githubUrl: "https://github.com/shahdhruvp16/BrainTumorDetector.git",
