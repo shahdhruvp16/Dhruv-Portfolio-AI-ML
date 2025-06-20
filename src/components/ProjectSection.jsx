@@ -28,7 +28,7 @@ const projects = [
     image: "https://github.com/shahdhruvp16/Dhruv-Portfolio-AI-ML/blob/main/src/assets/Braintumor.pngg",
     tags: ["ML", "AI", "Flask", "Python"],
     demoUrl: "#",
-    githubUrl: "https://github.com/shahdhruvp16/BrainTumorDetector.git",
+    githubUrl: "../../src/assets/BrainTumorDetector.git",
   },
 ];
 
@@ -100,7 +100,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/shahdhruvp16"
           >
             Check My Github <ArrowRight size={16} />
           </a>
