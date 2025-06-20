@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Sign Language Translator",
     description: "ISL sign language traslator which translate sign language to Different regional Language like Gujarati, Hindi and many more.",
-    image: "../../src/assets/speaksign.png",
+    image: "https://drive.google.com/file/d/1cJDsf0VaqUpdhtik9ChAo232Bs0SM7PU/view",
     tags: ["AI", "ML", "Python", "Flask"],
     demoUrl: "#",
     githubUrl: "https://github.com/shahdhruvp16/Sign-Language-Transalator.git",
