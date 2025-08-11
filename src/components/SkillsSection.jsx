@@ -29,7 +29,7 @@ const skills = [
   { name: "Streamlit / Gradio", level: 70, category: "cloud" },
 ];
 
-const categories = ["all", "ai-ml", "programming", "tools", "cloud"];
+const categories = ["all", "ai/ml", "programming", "tools", "cloud"];
 
 export const SkillsSection = () => {
   const [activeCategory, setActiveCategory] = useState("all");
@@ -89,3 +89,4 @@ export const SkillsSection = () => {
     </section>
   );
 };
+
